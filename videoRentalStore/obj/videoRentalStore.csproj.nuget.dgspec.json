@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/arthurkuznetsov/Projects/videoRentalStore/videoRentalStore/videoRentalStore.csproj": {}
+    "/Users/arthurkuznetsov/Desktop/projects/C#/videoRentalStore-MVC/videoRentalStore/videoRentalStore.csproj": {}
   },
   "projects": {
-    "/Users/arthurkuznetsov/Projects/videoRentalStore/videoRentalStore/videoRentalStore.csproj": {
+    "/Users/arthurkuznetsov/Desktop/projects/C#/videoRentalStore-MVC/videoRentalStore/videoRentalStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/arthurkuznetsov/Projects/videoRentalStore/videoRentalStore/videoRentalStore.csproj",
+        "projectUniqueName": "/Users/arthurkuznetsov/Desktop/projects/C#/videoRentalStore-MVC/videoRentalStore/videoRentalStore.csproj",
         "projectName": "videoRentalStore",
-        "projectPath": "/Users/arthurkuznetsov/Projects/videoRentalStore/videoRentalStore/videoRentalStore.csproj",
+        "projectPath": "/Users/arthurkuznetsov/Desktop/projects/C#/videoRentalStore-MVC/videoRentalStore/videoRentalStore.csproj",
         "packagesPath": "/Users/arthurkuznetsov/.nuget/packages/",
-        "outputPath": "/Users/arthurkuznetsov/Projects/videoRentalStore/videoRentalStore/obj/",
+        "outputPath": "/Users/arthurkuznetsov/Desktop/projects/C#/videoRentalStore-MVC/videoRentalStore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/arthurkuznetsov/.nuget/NuGet/NuGet.Config"
